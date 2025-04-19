@@ -1,17 +1,21 @@
-Hi, I'm Muqeem Ahmed — a graduate student in Computer & Information Systems with a strong passion for AI, Machine Learning, and Natural Language Interfaces.
+🔍 About This Project
+This final-year project explores the integration of Large Language Models (LLMs) with the LangChain framework to simplify database querying through natural language.
 
-🔍 My work focuses on building intelligent systems that bridge the gap between human language and technical systems. Most recently, I worked on a project that uses LangChain, Meta’s LLaMA models, and SQL to enable text-to-SQL query generation, allowing users to interact with databases using simple English.
+Title: Text-to-SQL Query Generation using LangChain and LLMs
 
-🧠 I enjoy exploring:
+The goal of this project is to bridge the gap between non-technical users and structured databases. Instead of writing SQL queries, users can simply ask questions in everyday English—like “Show me all orders over $3000”—and the system will generate, execute, and return the results of a valid SQL query.
 
-Large Language Models (LLMs)
+🚀 Key Features:
 
-LangChain framework for LLM orchestration
+Natural language to SQL conversion
 
-SQL + Natural Language Interfaces
+Meta’s LLaMA model integration
 
-Prompt engineering & model optimization
+LangChain-powered orchestration
 
-Cloud-based AI deployment
+SQLite database querying
 
-🚀 Currently, I’m deepening my knowledge in LLM fine-tuning and exploring Retrieval-Augmented Generation (RAG) for better contextual response systems.# text_sql
+Optional SQL agent support for enhanced logic
+
+This project demonstrates how generative AI can transform user interactions with databases by making data retrieval intuitive, accessible, and intelligent.
+
